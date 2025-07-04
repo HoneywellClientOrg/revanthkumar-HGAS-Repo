@@ -1,6 +1,6 @@
 ## Dependabot
 
-### Contents
+## Contents
 
 - [Enabling Dependabot alerts](#enabling-dependabot-alerts)
 - [Reviewing the dependency graph](#reviewing-the-dependency-graph)
