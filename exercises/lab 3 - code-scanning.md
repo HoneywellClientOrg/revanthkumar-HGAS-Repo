@@ -1,4 +1,4 @@
-## Code scanning
+### Code scanning
 
 Code scanning enables developers to integrate security analysis tooling into their developing workflow. In this exercise, we will focus on the CodeQL static analysis tooling that helps developers detect common vulnerabilities and coding errors.
 
